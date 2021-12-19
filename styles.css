@@ -53,9 +53,9 @@ body {
 .dot {
   align-self: center;
   display: block;
-  height: 80px;
+  height: 90px;
   justify-self: center;
-  width: 80px;
+  width: 90px;
 }
 .even-roll[data-roll="1"] {
   transform: rotateX(360deg) rotateY(720deg) rotateZ(360deg);
