@@ -46,9 +46,9 @@ body {
   display: grid;
   grid-column: 1;
   grid-row: 1;
-  height: 200%;
+  height: 100%;
   padding: 1rem;
-  width: 200%;
+  width: 100%;
 }
 .dot {
   align-self: center;
